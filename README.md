@@ -1,0 +1,2 @@
+# smg
+Social meaning games
